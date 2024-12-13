@@ -18,9 +18,9 @@ twentyonedaysago = today - timedelta(days=21)
 mask = (df["datum"] >= twentyonedaysago) & (df["overtredingen"] <= 1)
 CorrectDate = df.loc[mask].drop(columns=["divisie", "stadion", "overtredingen"], errors="ignore")
 
-with open("data/overtreddingAantal.txt", "w", encoding="utf-8") as file:
+with open("data/overtredingAantal.txt", "w", encoding="utf-8") as file:
     file.write(str(overtredingenAantal))
-with open("data/overtreddingMean.txt", "w", encoding="utf-8") as file:
+with open("data/overtredingMean.txt", "w", encoding="utf-8") as file:
     file.write(str(MeanOvertredingen))
 with open("data/Top5Overtredingen.txt", "w", encoding="utf-8") as file:
     file.write(top5Overtredingen.to_string(index=False))
