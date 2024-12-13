@@ -1,0 +1,128 @@
+aantal overtredding: 380
+Gemiddeld overtredingen: 3059
+Top 5 overtredingen:
+      divisie                              team1                   team2      datum     scheidsrechter                    stadion  bezoekersaantal uitslag  overtredingen
+Eerste klasse                     Nijemirdum UHC       UHC Nijkerkerveen 11/12/2024           van Loon     Radio Kootwijk Stadion             2401     5-2             99
+Eerste klasse                       UHC Wolfheze       UHC Nijkerkerveen 05/12/2024              Hulst   Zuidoostbeemster Stadion             2240     0-4             97
+Eerste klasse Amsterdamsche Hockey & Bandey Club              Wekerom HC 30/12/2024             Bertho Ruinerwold Olympic Stadium            29449     5-3             97
+Eerste klasse                       Hartwerd UHC             UHC Hamburg 01/12/2024           van Loon              Woudsend Park             8275     4-2             93
+Eerste klasse                    Voorthuizen UHC HOC Gazellen-Combinatie 11/12/2024 van Schevinghuizen               Haarlo Arena             2270     4-5             92
+
+Filtered data (last 21 days and overtredingen <= 1):
+      divisie                              team1                              team2      datum     scheidsrechter                        stadion  bezoekersaantal uitslag  overtredingen
+Eerste klasse                     Nijemirdum UHC                         Abbega UHC 2024-12-12          van Rooij       Kerkrade Olympic Stadium             6671     2-6              0
+Eerste klasse                     Nijemirdum UHC                     Waterloo Ducks 2024-12-15 van Schevinghuizen       Kerkrade Olympic Stadium             2767     8-7              0
+Eerste klasse                     Nijemirdum UHC                      Club de Campo 2024-12-14          van Rooij Oost-Graftdijk Olympic Stadium            28865     0-8              1
+Eerste klasse                     Nijemirdum UHC                       UHC Wolfheze 2024-12-21            de Heer         Kiel-Windeweer Stadion            18169     0-0              0
+Eerste klasse                     Nijemirdum UHC                HC Noord-Scharwoude 2024-12-11             Kalman Oost-Graftdijk Olympic Stadium            12465     6-2              0
+Eerste klasse                  Wieringerwaard HC                         Wekerom HC 2024-12-14 van Schevinghuizen       Kerkrade Olympic Stadium             8139     3-0              1
+Eerste klasse                  Wieringerwaard HC                     Waterloo Ducks 2024-12-10          van Rooij         Kiel-Windeweer Stadion            19543     7-4              1
+Eerste klasse                  Wieringerwaard HC                       Hartwerd UHC 2024-12-01            de Heer              Markenbinnen Park            26548     6-4              1
+Eerste klasse                  Wieringerwaard HC                        UHC Hamburg 2024-12-18              Hulst                   Rutten Arena            28303     1-6              1
+Eerste klasse                  Wieringerwaard HC                  Harvestehuder THC 2024-12-07           van Loon         Radio Kootwijk Stadion             2627     7-4              0
+Eerste klasse                  Wieringerwaard HC                      Club de Campo 2024-12-30           van Loon                Abbenes Stadium             8529     4-1              0
+Eerste klasse                  Wieringerwaard HC                      Schipborg UHC 2024-12-24             Bertho                  Neede Stadion            19423     0-0              0
+Eerste klasse                         Abbega UHC                    Voorthuizen UHC 2024-12-28          van Rooij         Tripscompagnie Stadion            19720     3-3              1
+Eerste klasse                         Abbega UHC            HOC Gazellen-Combinatie 2024-12-09           van Loon         Molenaarsgraaf Stadium            28497     2-8              0
+Eerste klasse                         Abbega UHC                  Harvestehuder THC 2024-12-01            de Heer     Ruinerwold Olympic Stadium             8992     6-2              0
+Eerste klasse                         Abbega UHC                       UHC Wolfheze 2024-12-17             Bertho         Tripscompagnie Stadion            13740     2-1              0
+Eerste klasse                         Abbega UHC                      Schipborg UHC 2024-12-19             Bertho                  Neede Stadion             6047     6-0              0
+Eerste klasse                         Wekerom HC                     Nijemirdum UHC 2024-12-13             Lankle                   Rutten Arena            11028     7-4              1
+Eerste klasse                         Wekerom HC                Reading Hockey Club 2024-12-21 van Schevinghuizen     Ruinerwold Olympic Stadium            17178     5-4              0
+Eerste klasse                         Wekerom HC                    Voorthuizen UHC 2024-12-26       van Rheineck                  Woudsend Park            22735     8-0              1
+Eerste klasse                         Wekerom HC            HOC Gazellen-Combinatie 2024-12-14            de Heer         Radio Kootwijk Stadion            20475     2-5              1
+Eerste klasse                         Wekerom HC                       UHC Wolfheze 2024-12-18           van Loon         Tripscompagnie Stadion            17833     0-0              0
+Eerste klasse                Reading Hockey Club                         Abbega UHC 2024-12-07             Bertho               Haghorst Stadion             9278     3-1              0
+Eerste klasse                Reading Hockey Club                        UHC Hamburg 2024-12-27           van Loon            Gerkesklooster Park            21933     1-7              1
+Eerste klasse                Reading Hockey Club                      Club de Campo 2024-12-20 van Schevinghuizen              Markenbinnen Park            20786     8-7              0
+Eerste klasse                Reading Hockey Club                       UHC Wolfheze 2024-12-22              Hulst                   Rutten Arena              778     3-5              1
+Eerste klasse                Reading Hockey Club                      Schipborg UHC 2024-12-08             Bertho         Kiel-Windeweer Stadion            27903     8-0              1
+Eerste klasse                    Voorthuizen UHC                         Abbega UHC 2024-12-29         van de Wal       Zuidoostbeemster Stadion            28286     5-6              1
+Eerste klasse                    Voorthuizen UHC                Reading Hockey Club 2024-12-01         van de Wal     Ruinerwold Olympic Stadium             1696     4-7              1
+Eerste klasse                    Voorthuizen UHC                  Harvestehuder THC 2024-12-15 van Schevinghuizen               Haghorst Stadion            16125     2-0              1
+Eerste klasse                    Voorthuizen UHC                       HC Vinkeveen 2024-12-10             Lankle                Abbenes Stadium             8844     5-1              1
+Eerste klasse                    Voorthuizen UHC                  UHC Nijkerkerveen 2024-12-05              Hulst     Ruinerwold Olympic Stadium            16392     1-5              0
+Eerste klasse                     Waterloo Ducks                     Nijemirdum UHC 2024-12-28 van Schevinghuizen               Haghorst Stadion            25105     4-7              1
+Eerste klasse                     Waterloo Ducks                       Hartwerd UHC 2024-12-04             Lankle         Radio Kootwijk Stadion             1650     6-4              0
+Eerste klasse                     Waterloo Ducks            HOC Gazellen-Combinatie 2024-12-12              Hulst       Zuidoostbeemster Stadion            17960     4-1              0
+Eerste klasse                     Waterloo Ducks                  Harvestehuder THC 2024-12-14             Lankle                Gorinchem Arena            16295     3-1              1
+Eerste klasse                     Waterloo Ducks                     Rot-Weiss Köln 2024-12-14           van Loon       Kerkrade Olympic Stadium            26398     4-2              1
+Eerste klasse                     Waterloo Ducks                      Schipborg UHC 2024-12-12          van Rooij                   Haarle Arena             5990     2-3              1
+Eerste klasse Amsterdamsche Hockey & Bandey Club                         Abbega UHC 2024-12-16          van Rooij         Tripscompagnie Stadion            21853     8-8              0
+Eerste klasse Amsterdamsche Hockey & Bandey Club                Reading Hockey Club 2024-12-27           van Loon         Radio Kootwijk Stadion            23841     3-4              1
+Eerste klasse Amsterdamsche Hockey & Bandey Club                    Voorthuizen UHC 2024-12-29         van de Wal         Molenaarsgraaf Stadium            25191     1-2              1
+Eerste klasse Amsterdamsche Hockey & Bandey Club                       Hartwerd UHC 2024-12-13 van Schevinghuizen              Markenbinnen Park             9296     0-1              0
+Eerste klasse Amsterdamsche Hockey & Bandey Club                        UHC Hamburg 2024-12-04 van Schevinghuizen                  Neede Stadion            29780     8-7              0
+Eerste klasse Amsterdamsche Hockey & Bandey Club                      Club de Campo 2024-12-27         van de Wal     Ruinerwold Olympic Stadium             2861     6-8              0
+Eerste klasse Amsterdamsche Hockey & Bandey Club                HC Noord-Scharwoude 2024-12-15             Kalman               Haghorst Stadion            17763     1-0              1
+Eerste klasse                       Hartwerd UHC                  Wieringerwaard HC 2024-12-04             Lankle                  Neede Stadion            21246     5-5              0
+Eerste klasse                       Hartwerd UHC Amsterdamsche Hockey & Bandey Club 2024-12-18       van Rheineck         Tripscompagnie Stadion             3142     8-7              1
+Eerste klasse                       Hartwerd UHC                  Harvestehuder THC 2024-12-18 van Schevinghuizen       Zuidoostbeemster Stadion            26629     6-6              1
+Eerste klasse                       Hartwerd UHC                     Rot-Weiss Köln 2024-12-01           van Loon              Markenbinnen Park             3068     7-5              1
+Eerste klasse                       Hartwerd UHC                  UHC Nijkerkerveen 2024-12-07           van Loon                 Aartswoud Park            14716     8-4              1
+Eerste klasse                        UHC Hamburg                Reading Hockey Club 2024-12-03             Lankle              Markenbinnen Park             9166     1-6              1
+Eerste klasse                        UHC Hamburg                       UHC Wolfheze 2024-12-08            de Heer               Rijswijk Stadium             5790     1-1              0
+Eerste klasse                        UHC Hamburg                HC Noord-Scharwoude 2024-12-03             Kalman                  Neede Stadion             2940     3-8              1
+Eerste klasse            HOC Gazellen-Combinatie                         Abbega UHC 2024-12-26             Lankle       Kerkrade Olympic Stadium            29939     0-8              1
+Eerste klasse            HOC Gazellen-Combinatie Amsterdamsche Hockey & Bandey Club 2024-12-21            de Heer         Radio Kootwijk Stadion            18660     7-0              1
+Eerste klasse            HOC Gazellen-Combinatie                       Hartwerd UHC 2024-12-22              Hulst                  Woudsend Park            23201     5-4              1
+Eerste klasse            HOC Gazellen-Combinatie                      Club de Campo 2024-12-24 van Schevinghuizen       Kerkrade Olympic Stadium             3600     7-8              1
+Eerste klasse            HOC Gazellen-Combinatie                  UHC Nijkerkerveen 2024-12-20 van Schevinghuizen         Kiel-Windeweer Stadion            20851     4-8              0
+Eerste klasse            HOC Gazellen-Combinatie                      Schipborg UHC 2024-12-18           van Loon Oost-Graftdijk Olympic Stadium            24495     3-8              0
+Eerste klasse                  Harvestehuder THC                         Abbega UHC 2024-12-25 van Schevinghuizen                   Rutten Arena             7739     0-8              0
+Eerste klasse                  Harvestehuder THC                Reading Hockey Club 2024-12-30            de Heer       Zuidoostbeemster Stadion            29928     6-7              1
+Eerste klasse                  Harvestehuder THC Amsterdamsche Hockey & Bandey Club 2024-12-22         van de Wal                 Aartswoud Park            18035     3-0              0
+Eerste klasse                  Harvestehuder THC                     Rot-Weiss Köln 2024-12-23             Kalman                   Rutten Arena             3703     4-1              1
+Eerste klasse                  Harvestehuder THC                           HC IJlst 2024-12-20          van Rooij               Rijswijk Stadium            19772     5-2              0
+Eerste klasse                  Harvestehuder THC                  UHC Nijkerkerveen 2024-12-05             Kalman                 Aartswoud Park             5483     5-4              0
+Eerste klasse                  Harvestehuder THC                HC Noord-Scharwoude 2024-12-23           van Loon         Tripscompagnie Stadion             3938     2-1              1
+Eerste klasse                      Club de Campo                     Nijemirdum UHC 2024-12-18           van Loon                Abbenes Stadium             7273     2-7              0
+Eerste klasse                      Club de Campo                         Wekerom HC 2024-12-25         van de Wal                 Aartswoud Park             1122     6-3              0
+Eerste klasse                      Club de Campo                     Waterloo Ducks 2024-12-13       van Rheineck                Abbenes Stadium            22921     5-3              0
+Eerste klasse                      Club de Campo                        UHC Hamburg 2024-12-24             Bertho Oost-Graftdijk Olympic Stadium             6233     3-3              1
+Eerste klasse                      Club de Campo                  Harvestehuder THC 2024-12-03             Lankle                Abbenes Stadium            25312     1-8              1
+Eerste klasse                      Club de Campo                           HC IJlst 2024-12-08             Kalman            Gerkesklooster Park            12535     1-2              1
+Eerste klasse                      Club de Campo                       UHC Wolfheze 2024-12-22           van Loon                 Aartswoud Park            26408     0-0              0
+Eerste klasse                      Club de Campo                HC Noord-Scharwoude 2024-12-14            de Heer                 Aartswoud Park            12470     2-4              0
+Eerste klasse                       HC Vinkeveen                     Nijemirdum UHC 2024-12-05 van Schevinghuizen Oost-Graftdijk Olympic Stadium             8157     8-0              1
+Eerste klasse                       HC Vinkeveen                Reading Hockey Club 2024-12-14            de Heer            Gerkesklooster Park            24210     5-5              1
+Eerste klasse                       HC Vinkeveen                    Voorthuizen UHC 2024-12-11           van Loon               Rijswijk Stadium            15882     8-2              1
+Eerste klasse                       HC Vinkeveen                     Waterloo Ducks 2024-12-22             Bertho               Rijswijk Stadium            23755     4-6              1
+Eerste klasse                       HC Vinkeveen            HOC Gazellen-Combinatie 2024-12-24         van de Wal                Gorinchem Arena            22273     5-0              0
+Eerste klasse                       HC Vinkeveen                  Harvestehuder THC 2024-12-09             Bertho                 Aartswoud Park             7839     6-2              1
+Eerste klasse                       HC Vinkeveen                      Club de Campo 2024-12-13              Hulst              Markenbinnen Park            21861     4-6              0
+Eerste klasse                       HC Vinkeveen                  UHC Nijkerkerveen 2024-12-29             Bertho                   Haarle Arena            17093     5-0              0
+Eerste klasse                       HC Vinkeveen                      Schipborg UHC 2024-12-19 van Schevinghuizen                   Rutten Arena             2521     2-7              1
+Eerste klasse                     Rot-Weiss Köln                  Wieringerwaard HC 2024-12-30             Bertho                   Haarle Arena            28144     7-3              1
+Eerste klasse                     Rot-Weiss Köln                         Abbega UHC 2024-12-23             Kalman              Markenbinnen Park            25507     0-4              1
+Eerste klasse                     Rot-Weiss Köln Amsterdamsche Hockey & Bandey Club 2024-12-09         van de Wal            Gerkesklooster Park             2723     1-4              0
+Eerste klasse                     Rot-Weiss Köln            HOC Gazellen-Combinatie 2024-12-15           van Loon                  Woudsend Park            26443     3-2              0
+Eerste klasse                     Rot-Weiss Köln                       UHC Wolfheze 2024-12-20           van Loon                Abbenes Stadium             3457     2-1              0
+Eerste klasse                     Rot-Weiss Köln                  UHC Nijkerkerveen 2024-12-03            de Heer               Haghorst Stadion            28144     3-0              0
+Eerste klasse                           HC IJlst                     Nijemirdum UHC 2024-12-01             Lankle                   Haarle Arena            29191     4-6              1
+Eerste klasse                           HC IJlst                         Wekerom HC 2024-12-24           van Loon                   Rutten Arena             5503     2-2              1
+Eerste klasse                           HC IJlst                     Waterloo Ducks 2024-12-04           van Loon                 Aartswoud Park             7437     2-3              0
+Eerste klasse                           HC IJlst            HOC Gazellen-Combinatie 2024-12-30              Hulst                   Haarle Arena            20720     3-2              0
+Eerste klasse                           HC IJlst                      Club de Campo 2024-12-03             Bertho                   Rutten Arena            17118     8-1              0
+Eerste klasse                           HC IJlst                       HC Vinkeveen 2024-12-24       van Rheineck            Gerkesklooster Park            23483     5-7              0
+Eerste klasse                           HC IJlst                HC Noord-Scharwoude 2024-12-04           van Loon                Gorinchem Arena             6428     0-7              1
+Eerste klasse                       UHC Wolfheze                         Abbega UHC 2024-12-22             Lankle                 Aartswoud Park            14509     8-3              1
+Eerste klasse                       UHC Wolfheze                         Wekerom HC 2024-12-05             Lankle         Molenaarsgraaf Stadium            21277     6-6              1
+Eerste klasse                       UHC Wolfheze Amsterdamsche Hockey & Bandey Club 2024-12-10          van Rooij       Kerkrade Olympic Stadium            25011     8-0              1
+Eerste klasse                       UHC Wolfheze                       Hartwerd UHC 2024-12-03             Bertho                Gorinchem Arena             5353     1-0              1
+Eerste klasse                       UHC Wolfheze                        UHC Hamburg 2024-12-14              Hulst                 Aartswoud Park            16990     5-6              1
+Eerste klasse                       UHC Wolfheze                  Harvestehuder THC 2024-12-02         van de Wal       Kerkrade Olympic Stadium            11234     1-6              1
+Eerste klasse                       UHC Wolfheze                       HC Vinkeveen 2024-12-21             Kalman         Radio Kootwijk Stadion            25850     1-2              0
+Eerste klasse                       UHC Wolfheze                      Schipborg UHC 2024-12-28 van Schevinghuizen               Haghorst Stadion            15029     0-8              1
+Eerste klasse                  UHC Nijkerkerveen Amsterdamsche Hockey & Bandey Club 2024-12-16 van Schevinghuizen         Radio Kootwijk Stadion             8009     7-1              0
+Eerste klasse                  UHC Nijkerkerveen                      Club de Campo 2024-12-13       van Rheineck            Gerkesklooster Park             1336     5-0              1
+Eerste klasse                  UHC Nijkerkerveen                       HC Vinkeveen 2024-12-24          van Rooij         Kiel-Windeweer Stadion             9054     5-8              0
+Eerste klasse                  UHC Nijkerkerveen                     Rot-Weiss Köln 2024-12-25            de Heer                   Haarlo Arena            17455     4-5              1
+Eerste klasse                      Schipborg UHC                    Voorthuizen UHC 2024-12-15             Kalman       Zuidoostbeemster Stadion            12920     4-5              1
+Eerste klasse                      Schipborg UHC Amsterdamsche Hockey & Bandey Club 2024-12-09       van Rheineck                 Aartswoud Park            25575     2-0              0
+Eerste klasse                HC Noord-Scharwoude                  Wieringerwaard HC 2024-12-24             Lankle                Abbenes Stadium            23246     4-8              1
+Eerste klasse                HC Noord-Scharwoude                         Abbega UHC 2024-12-11             Lankle Oost-Graftdijk Olympic Stadium            25371     8-2              1
+Eerste klasse                HC Noord-Scharwoude                       Hartwerd UHC 2024-12-20             Bertho                  Neede Stadion            26531     5-7              1
+Eerste klasse                HC Noord-Scharwoude                  Harvestehuder THC 2024-12-06 van Schevinghuizen                Gorinchem Arena            10332     1-4              1
+Eerste klasse                HC Noord-Scharwoude                       UHC Wolfheze 2024-12-02             Bertho Oost-Graftdijk Olympic Stadium            21477     8-2              1
+Eerste klasse                HC Noord-Scharwoude                      Schipborg UHC 2024-12-11             Kalman              Markenbinnen Park            16839     2-5              1
