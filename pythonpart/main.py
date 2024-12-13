@@ -1,30 +1,22 @@
-import csv
-file = open('pythonpart/data/Hockey_Eerste_klasse_tussenstand.csv', "r")
-file2 = open('pythonpart/data/totalData.txt', "w+")
-reader = csv.DictReader(file)
-filesList = list(reader)
+import pandas as pd
+from datetime import datetime,timedelta
 
-overtredingenAantal = 0
-overtredingenGemiddel = 0
-XInt = 0
+data = pd.read_excel("data/Hockey_Eerste klasse_tussenstand.xlsx")
 
-for overtredingen in filesList:
-    overtredingenAantal = overtredingenAantal + int(overtredingen['overtredingen'])
-    XInt = XInt + 1
+overtredingenAantal = data["overtredingen"].count()
 
-overtredingenGemiddel = overtredingenAantal/XInt
+SumOvertredingen = data["overtredingen"].sum()
 
-names = []
-overtredingenTop5 = []
+data_stored = data.sort_values("overtredingen", ascending=False)
+top5Overtredingen = data_stored.head(5)
 
-for row in file:
-    names.append(row['scheidsrechter'])
-    overtredingenTop5.append(row['overtredingen'])
+datum = data["datum"]
+datum = pd.to_datetime(data["datum"])
+datum = data["datum"].dt.strftime("%d-%m-%Y")
+today = datetime.now()
+twentyonedaysago = today - timedelta(days=21)
+filter = datum > twentyonedaysago
 
-print(f"XInt {XInt}")
-print(overtredingenAantal)
-print(overtredingenGemiddel)
-print(names)
-file2.write(f"Total overtredingen : {overtredingenAantal} \nGemmideled overtredingen : {overtredingenGemiddel}")
-file2.close()
-file.close()
+print(f"aantal overtredding : {overtredingenAantal}")
+print(f"Gemiddeld overtredingen : {SumOvertredingen}")
+print(f"Top 5 overtredingen :\n {top5Overtredingen}")
