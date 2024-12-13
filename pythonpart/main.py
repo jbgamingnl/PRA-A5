@@ -26,4 +26,4 @@ with open("data/Top5Overtredingen.txt", "w", encoding="utf-8") as file:
     file.write(top5Overtredingen.to_string(index=False))
 with open("data/FilteredData.txt", "w", encoding="utf-8") as file:
     file.write(CorrectDate.to_string(index=False))
-print("Output written to 'output.txt'")
+print("Done making files")
