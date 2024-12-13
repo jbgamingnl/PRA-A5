@@ -1,7 +1,8 @@
 import pandas as pd
-from datetime import datetime,timedelta
+from datetime import datetime, timedelta
 
 data = pd.read_excel("data/Hockey_Eerste klasse_tussenstand.xlsx")
+df = pd.DataFrame(data)
 
 overtredingenAantal = data["overtredingen"].count()
 
@@ -10,13 +11,21 @@ SumOvertredingen = data["overtredingen"].sum()
 data_stored = data.sort_values("overtredingen", ascending=False)
 top5Overtredingen = data_stored.head(5)
 
-datum = data["datum"]
-datum = pd.to_datetime(data["datum"])
-datum = data["datum"].dt.strftime("%d-%m-%Y")
+df["datum"] = pd.to_datetime(df["datum"], format="%d/%m/%Y", errors="coerce")
+
 today = datetime.now()
 twentyonedaysago = today - timedelta(days=21)
-filter = datum > twentyonedaysago
+mask = (df["datum"] >= twentyonedaysago) & (df["overtredingen"] <= 1)
+CorrectDate = df.loc[mask]
 
-print(f"aantal overtredding : {overtredingenAantal}")
-print(f"Gemiddeld overtredingen : {SumOvertredingen}")
-print(f"Top 5 overtredingen :\n {top5Overtredingen}")
+output = (
+    f"aantal overtredding: {overtredingenAantal}\n"
+    f"Gemiddeld overtredingen: {SumOvertredingen}\n"
+    f"Top 5 overtredingen:\n{top5Overtredingen.to_string(index=False)}\n\n"
+    f"Filtered data (last 21 days and overtredingen <= 1):\n{CorrectDate.to_string(index=False)}\n"
+)
+
+with open("data/output.txt", "w", encoding="utf-8") as file:
+    file.write(output)
+
+print("Output written to 'output.txt'")

@@ -1,4 +1,4 @@
-aantal overtredingen: 380
+aantal overtredding: 380
 Gemiddeld overtredingen: 3059
 Top 5 overtredingen:
       divisie                              team1                   team2      datum     scheidsrechter                    stadion  bezoekersaantal uitslag  overtredingen
@@ -8,7 +8,7 @@ Eerste klasse Amsterdamsche Hockey & Bandey Club              Wekerom HC 30/12/2
 Eerste klasse                       Hartwerd UHC             UHC Hamburg 01/12/2024           van Loon              Woudsend Park             8275     4-2             93
 Eerste klasse                    Voorthuizen UHC HOC Gazellen-Combinatie 11/12/2024 van Schevinghuizen               Haarlo Arena             2270     4-5             92
 
-Filtered data:
+Filtered data (last 21 days and overtredingen <= 1):
       divisie                              team1                              team2      datum     scheidsrechter                        stadion  bezoekersaantal uitslag  overtredingen
 Eerste klasse                     Nijemirdum UHC                         Abbega UHC 2024-12-12          van Rooij       Kerkrade Olympic Stadium             6671     2-6              0
 Eerste klasse                     Nijemirdum UHC                     Waterloo Ducks 2024-12-15 van Schevinghuizen       Kerkrade Olympic Stadium             2767     8-7              0
