@@ -43,14 +43,18 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
 #overtredinglist{
     padding-top: 50px;
     
 }
-
+.totaalovertreding h1, .gemovertreding h1{
+    font-size: 20px;
+}
 .top5overtreding, .last21games{
     background-color: #fff;
     border-radius: 10px;
+    padding-top: 10px;
 }

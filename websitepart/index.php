@@ -18,19 +18,21 @@
         <section id="overtredingcount">
             <div class="totaalovertreding">
                 <h3>aantal overtredingen</h3>
-                <?php echo file_get_contents() ?>
+                <h1><?php echo file_get_contents("../pythonpart/data/overtredingAantal.txt") ?></h1>
             </div>
             <div class="gemovertreding">
                 <h3>gemiddelde overtredingen</h3>
-                <?php echo file_get_contents("../pythonpart/data/") ?>
+                <h1><?php echo file_get_contents("../pythonpart/data/overtredingMean.txt") ?></h1>
             </div>
         </section>
         <section id="overtredinglist">
             <div class="top5overtreding">
             <h3>de top 5 wedstrijden met de meeste overtredingen</h3>
+            <p><?php echo file_get_contents("../pythonpart/data/Top5Overtredingen.txt") ?></p>
             </div>
             <div class="last21games">
                 <h3>alle wedstrijden van de laatste 21dagen waarin maximaal één overtreding is geweest</h3>
+                <p><?php echo file_get_contents("../pythonpart/data/FilteredData.txt") ?></p>
             </div>
         </section>
     </section>
