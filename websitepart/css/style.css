@@ -1,0 +1,56 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+
+body{
+    background-color: #eeeeee
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+#banner h2{
+    display: flex;
+    justify-content: center;
+}
+
+#banner p{
+    display:flex;
+    margin: 0   auto;
+    width: 70%;
+    text-align: center;
+}
+#features #overtredingcount{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+#overtredingcount{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    ;
+}
+
+.totaalovertreding, .gemovertreding{
+    background-color: #fff;
+    width: 256px;
+    height: 64px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#overtredinglist{
+    padding-top: 50px;
+    
+}
+
+.top5overtreding, .last21games{
+    background-color: #fff;
+    border-radius: 10px;
+}
