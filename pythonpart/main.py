@@ -16,7 +16,7 @@ df["datum"] = pd.to_datetime(df["datum"], format="%d/%m/%Y", errors="coerce")
 today = datetime.now()
 twentyonedaysago = today - timedelta(days=21)
 mask = (df["datum"] >= twentyonedaysago) & (df["overtredingen"] <= 1)
-CorrectDate = df.loc[mask].drop(columns=["divisie", "stadion", "overtredingen"], errors="ignore")
+CorrectDate = df.loc[mask].drop(columns=["divisie", "stadion"], errors="ignore")
 
 with open("data/overtredingAantal.txt", "w", encoding="utf-8") as file:
     file.write(str(overtredingenAantal))
