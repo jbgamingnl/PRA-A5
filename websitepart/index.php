@@ -18,7 +18,7 @@
         <section id="overtredingcount">
             <div class="totaalovertreding">
                 <h3>aantal overtredingen</h3>
-                <?php echo file_get_contents ?>
+                <?php echo file_get_contents() ?>
             </div>
             <div class="gemovertreding">
                 <h3>gemiddelde overtredingen</h3>
