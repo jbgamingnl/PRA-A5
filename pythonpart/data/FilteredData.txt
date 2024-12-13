@@ -1,0 +1,117 @@
+                             team1                              team2      datum     scheidsrechter  bezoekersaantal uitslag
+                    Nijemirdum UHC                         Abbega UHC 2024-12-12          van Rooij             6671     2-6
+                    Nijemirdum UHC                     Waterloo Ducks 2024-12-15 van Schevinghuizen             2767     8-7
+                    Nijemirdum UHC                      Club de Campo 2024-12-14          van Rooij            28865     0-8
+                    Nijemirdum UHC                       UHC Wolfheze 2024-12-21            de Heer            18169     0-0
+                    Nijemirdum UHC                HC Noord-Scharwoude 2024-12-11             Kalman            12465     6-2
+                 Wieringerwaard HC                         Wekerom HC 2024-12-14 van Schevinghuizen             8139     3-0
+                 Wieringerwaard HC                     Waterloo Ducks 2024-12-10          van Rooij            19543     7-4
+                 Wieringerwaard HC                       Hartwerd UHC 2024-12-01            de Heer            26548     6-4
+                 Wieringerwaard HC                        UHC Hamburg 2024-12-18              Hulst            28303     1-6
+                 Wieringerwaard HC                  Harvestehuder THC 2024-12-07           van Loon             2627     7-4
+                 Wieringerwaard HC                      Club de Campo 2024-12-30           van Loon             8529     4-1
+                 Wieringerwaard HC                      Schipborg UHC 2024-12-24             Bertho            19423     0-0
+                        Abbega UHC                    Voorthuizen UHC 2024-12-28          van Rooij            19720     3-3
+                        Abbega UHC            HOC Gazellen-Combinatie 2024-12-09           van Loon            28497     2-8
+                        Abbega UHC                  Harvestehuder THC 2024-12-01            de Heer             8992     6-2
+                        Abbega UHC                       UHC Wolfheze 2024-12-17             Bertho            13740     2-1
+                        Abbega UHC                      Schipborg UHC 2024-12-19             Bertho             6047     6-0
+                        Wekerom HC                     Nijemirdum UHC 2024-12-13             Lankle            11028     7-4
+                        Wekerom HC                Reading Hockey Club 2024-12-21 van Schevinghuizen            17178     5-4
+                        Wekerom HC                    Voorthuizen UHC 2024-12-26       van Rheineck            22735     8-0
+                        Wekerom HC            HOC Gazellen-Combinatie 2024-12-14            de Heer            20475     2-5
+                        Wekerom HC                       UHC Wolfheze 2024-12-18           van Loon            17833     0-0
+               Reading Hockey Club                         Abbega UHC 2024-12-07             Bertho             9278     3-1
+               Reading Hockey Club                        UHC Hamburg 2024-12-27           van Loon            21933     1-7
+               Reading Hockey Club                      Club de Campo 2024-12-20 van Schevinghuizen            20786     8-7
+               Reading Hockey Club                       UHC Wolfheze 2024-12-22              Hulst              778     3-5
+               Reading Hockey Club                      Schipborg UHC 2024-12-08             Bertho            27903     8-0
+                   Voorthuizen UHC                         Abbega UHC 2024-12-29         van de Wal            28286     5-6
+                   Voorthuizen UHC                Reading Hockey Club 2024-12-01         van de Wal             1696     4-7
+                   Voorthuizen UHC                  Harvestehuder THC 2024-12-15 van Schevinghuizen            16125     2-0
+                   Voorthuizen UHC                       HC Vinkeveen 2024-12-10             Lankle             8844     5-1
+                   Voorthuizen UHC                  UHC Nijkerkerveen 2024-12-05              Hulst            16392     1-5
+                    Waterloo Ducks                     Nijemirdum UHC 2024-12-28 van Schevinghuizen            25105     4-7
+                    Waterloo Ducks                       Hartwerd UHC 2024-12-04             Lankle             1650     6-4
+                    Waterloo Ducks            HOC Gazellen-Combinatie 2024-12-12              Hulst            17960     4-1
+                    Waterloo Ducks                  Harvestehuder THC 2024-12-14             Lankle            16295     3-1
+                    Waterloo Ducks                     Rot-Weiss Köln 2024-12-14           van Loon            26398     4-2
+                    Waterloo Ducks                      Schipborg UHC 2024-12-12          van Rooij             5990     2-3
+Amsterdamsche Hockey & Bandey Club                         Abbega UHC 2024-12-16          van Rooij            21853     8-8
+Amsterdamsche Hockey & Bandey Club                Reading Hockey Club 2024-12-27           van Loon            23841     3-4
+Amsterdamsche Hockey & Bandey Club                    Voorthuizen UHC 2024-12-29         van de Wal            25191     1-2
+Amsterdamsche Hockey & Bandey Club                       Hartwerd UHC 2024-12-13 van Schevinghuizen             9296     0-1
+Amsterdamsche Hockey & Bandey Club                        UHC Hamburg 2024-12-04 van Schevinghuizen            29780     8-7
+Amsterdamsche Hockey & Bandey Club                      Club de Campo 2024-12-27         van de Wal             2861     6-8
+Amsterdamsche Hockey & Bandey Club                HC Noord-Scharwoude 2024-12-15             Kalman            17763     1-0
+                      Hartwerd UHC                  Wieringerwaard HC 2024-12-04             Lankle            21246     5-5
+                      Hartwerd UHC Amsterdamsche Hockey & Bandey Club 2024-12-18       van Rheineck             3142     8-7
+                      Hartwerd UHC                  Harvestehuder THC 2024-12-18 van Schevinghuizen            26629     6-6
+                      Hartwerd UHC                     Rot-Weiss Köln 2024-12-01           van Loon             3068     7-5
+                      Hartwerd UHC                  UHC Nijkerkerveen 2024-12-07           van Loon            14716     8-4
+                       UHC Hamburg                Reading Hockey Club 2024-12-03             Lankle             9166     1-6
+                       UHC Hamburg                       UHC Wolfheze 2024-12-08            de Heer             5790     1-1
+                       UHC Hamburg                HC Noord-Scharwoude 2024-12-03             Kalman             2940     3-8
+           HOC Gazellen-Combinatie                         Abbega UHC 2024-12-26             Lankle            29939     0-8
+           HOC Gazellen-Combinatie Amsterdamsche Hockey & Bandey Club 2024-12-21            de Heer            18660     7-0
+           HOC Gazellen-Combinatie                       Hartwerd UHC 2024-12-22              Hulst            23201     5-4
+           HOC Gazellen-Combinatie                      Club de Campo 2024-12-24 van Schevinghuizen             3600     7-8
+           HOC Gazellen-Combinatie                  UHC Nijkerkerveen 2024-12-20 van Schevinghuizen            20851     4-8
+           HOC Gazellen-Combinatie                      Schipborg UHC 2024-12-18           van Loon            24495     3-8
+                 Harvestehuder THC                         Abbega UHC 2024-12-25 van Schevinghuizen             7739     0-8
+                 Harvestehuder THC                Reading Hockey Club 2024-12-30            de Heer            29928     6-7
+                 Harvestehuder THC Amsterdamsche Hockey & Bandey Club 2024-12-22         van de Wal            18035     3-0
+                 Harvestehuder THC                     Rot-Weiss Köln 2024-12-23             Kalman             3703     4-1
+                 Harvestehuder THC                           HC IJlst 2024-12-20          van Rooij            19772     5-2
+                 Harvestehuder THC                  UHC Nijkerkerveen 2024-12-05             Kalman             5483     5-4
+                 Harvestehuder THC                HC Noord-Scharwoude 2024-12-23           van Loon             3938     2-1
+                     Club de Campo                     Nijemirdum UHC 2024-12-18           van Loon             7273     2-7
+                     Club de Campo                         Wekerom HC 2024-12-25         van de Wal             1122     6-3
+                     Club de Campo                     Waterloo Ducks 2024-12-13       van Rheineck            22921     5-3
+                     Club de Campo                        UHC Hamburg 2024-12-24             Bertho             6233     3-3
+                     Club de Campo                  Harvestehuder THC 2024-12-03             Lankle            25312     1-8
+                     Club de Campo                           HC IJlst 2024-12-08             Kalman            12535     1-2
+                     Club de Campo                       UHC Wolfheze 2024-12-22           van Loon            26408     0-0
+                     Club de Campo                HC Noord-Scharwoude 2024-12-14            de Heer            12470     2-4
+                      HC Vinkeveen                     Nijemirdum UHC 2024-12-05 van Schevinghuizen             8157     8-0
+                      HC Vinkeveen                Reading Hockey Club 2024-12-14            de Heer            24210     5-5
+                      HC Vinkeveen                    Voorthuizen UHC 2024-12-11           van Loon            15882     8-2
+                      HC Vinkeveen                     Waterloo Ducks 2024-12-22             Bertho            23755     4-6
+                      HC Vinkeveen            HOC Gazellen-Combinatie 2024-12-24         van de Wal            22273     5-0
+                      HC Vinkeveen                  Harvestehuder THC 2024-12-09             Bertho             7839     6-2
+                      HC Vinkeveen                      Club de Campo 2024-12-13              Hulst            21861     4-6
+                      HC Vinkeveen                  UHC Nijkerkerveen 2024-12-29             Bertho            17093     5-0
+                      HC Vinkeveen                      Schipborg UHC 2024-12-19 van Schevinghuizen             2521     2-7
+                    Rot-Weiss Köln                  Wieringerwaard HC 2024-12-30             Bertho            28144     7-3
+                    Rot-Weiss Köln                         Abbega UHC 2024-12-23             Kalman            25507     0-4
+                    Rot-Weiss Köln Amsterdamsche Hockey & Bandey Club 2024-12-09         van de Wal             2723     1-4
+                    Rot-Weiss Köln            HOC Gazellen-Combinatie 2024-12-15           van Loon            26443     3-2
+                    Rot-Weiss Köln                       UHC Wolfheze 2024-12-20           van Loon             3457     2-1
+                    Rot-Weiss Köln                  UHC Nijkerkerveen 2024-12-03            de Heer            28144     3-0
+                          HC IJlst                     Nijemirdum UHC 2024-12-01             Lankle            29191     4-6
+                          HC IJlst                         Wekerom HC 2024-12-24           van Loon             5503     2-2
+                          HC IJlst                     Waterloo Ducks 2024-12-04           van Loon             7437     2-3
+                          HC IJlst            HOC Gazellen-Combinatie 2024-12-30              Hulst            20720     3-2
+                          HC IJlst                      Club de Campo 2024-12-03             Bertho            17118     8-1
+                          HC IJlst                       HC Vinkeveen 2024-12-24       van Rheineck            23483     5-7
+                          HC IJlst                HC Noord-Scharwoude 2024-12-04           van Loon             6428     0-7
+                      UHC Wolfheze                         Abbega UHC 2024-12-22             Lankle            14509     8-3
+                      UHC Wolfheze                         Wekerom HC 2024-12-05             Lankle            21277     6-6
+                      UHC Wolfheze Amsterdamsche Hockey & Bandey Club 2024-12-10          van Rooij            25011     8-0
+                      UHC Wolfheze                       Hartwerd UHC 2024-12-03             Bertho             5353     1-0
+                      UHC Wolfheze                        UHC Hamburg 2024-12-14              Hulst            16990     5-6
+                      UHC Wolfheze                  Harvestehuder THC 2024-12-02         van de Wal            11234     1-6
+                      UHC Wolfheze                       HC Vinkeveen 2024-12-21             Kalman            25850     1-2
+                      UHC Wolfheze                      Schipborg UHC 2024-12-28 van Schevinghuizen            15029     0-8
+                 UHC Nijkerkerveen Amsterdamsche Hockey & Bandey Club 2024-12-16 van Schevinghuizen             8009     7-1
+                 UHC Nijkerkerveen                      Club de Campo 2024-12-13       van Rheineck             1336     5-0
+                 UHC Nijkerkerveen                       HC Vinkeveen 2024-12-24          van Rooij             9054     5-8
+                 UHC Nijkerkerveen                     Rot-Weiss Köln 2024-12-25            de Heer            17455     4-5
+                     Schipborg UHC                    Voorthuizen UHC 2024-12-15             Kalman            12920     4-5
+                     Schipborg UHC Amsterdamsche Hockey & Bandey Club 2024-12-09       van Rheineck            25575     2-0
+               HC Noord-Scharwoude                  Wieringerwaard HC 2024-12-24             Lankle            23246     4-8
+               HC Noord-Scharwoude                         Abbega UHC 2024-12-11             Lankle            25371     8-2
+               HC Noord-Scharwoude                       Hartwerd UHC 2024-12-20             Bertho            26531     5-7
+               HC Noord-Scharwoude                  Harvestehuder THC 2024-12-06 van Schevinghuizen            10332     1-4
+               HC Noord-Scharwoude                       UHC Wolfheze 2024-12-02             Bertho            21477     8-2
+               HC Noord-Scharwoude                      Schipborg UHC 2024-12-11             Kalman            16839     2-5

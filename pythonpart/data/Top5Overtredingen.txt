@@ -1,0 +1,6 @@
+                             team1                   team2      datum     scheidsrechter  bezoekersaantal uitslag  overtredingen
+                    Nijemirdum UHC       UHC Nijkerkerveen 11/12/2024           van Loon             2401     5-2             99
+                      UHC Wolfheze       UHC Nijkerkerveen 05/12/2024              Hulst             2240     0-4             97
+Amsterdamsche Hockey & Bandey Club              Wekerom HC 30/12/2024             Bertho            29449     5-3             97
+                      Hartwerd UHC             UHC Hamburg 01/12/2024           van Loon             8275     4-2             93
+                   Voorthuizen UHC HOC Gazellen-Combinatie 11/12/2024 van Schevinghuizen             2270     4-5             92

@@ -9,23 +9,21 @@ overtredingenAantal = data["overtredingen"].count()
 SumOvertredingen = data["overtredingen"].sum()
 
 data_stored = data.sort_values("overtredingen", ascending=False)
-top5Overtredingen = data_stored.head(5)
+top5Overtredingen = data_stored.head(5).drop(columns=["divisie", "stadion"], errors="ignore")
 
 df["datum"] = pd.to_datetime(df["datum"], format="%d/%m/%Y", errors="coerce")
 
 today = datetime.now()
 twentyonedaysago = today - timedelta(days=21)
 mask = (df["datum"] >= twentyonedaysago) & (df["overtredingen"] <= 1)
-CorrectDate = df.loc[mask]
+CorrectDate = df.loc[mask].drop(columns=["divisie", "stadion", "overtredingen"], errors="ignore")
 
-output = (
-    f"aantal overtredding: {overtredingenAantal}\n"
-    f"Gemiddeld overtredingen: {SumOvertredingen}\n"
-    f"Top 5 overtredingen:\n{top5Overtredingen.to_string(index=False)}\n\n"
-    f"Filtered data (last 21 days and overtredingen <= 1):\n{CorrectDate.to_string(index=False)}\n"
-)
-
-with open("data/output.txt", "w", encoding="utf-8") as file:
-    file.write(output)
-
+with open("data/overtreddingAantal.txt", "w", encoding="utf-8") as file:
+    file.write(str(overtredingenAantal))
+with open("data/overtreddingSum.txt", "w", encoding="utf-8") as file:
+    file.write(str(SumOvertredingen))
+with open("data/Top5Overtredingen.txt", "w", encoding="utf-8") as file:
+    file.write(top5Overtredingen.to_string(index=False))
+with open("data/FilteredData.txt", "w", encoding="utf-8") as file:
+    file.write(CorrectDate.to_string(index=False))
 print("Output written to 'output.txt'")
