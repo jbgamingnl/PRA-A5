@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 data = pd.read_excel("data/Hockey_Eerste klasse_tussenstand.xlsx")
 df = pd.DataFrame(data)
 
-overtredingenAantal = data["overtredingen"].count()
+overtredingenAantal = data["overtredingen"].sum()
 
-SumOvertredingen = data["overtredingen"].sum()
+MeanOvertredingen = data["overtredingen"].mean()
 
 data_stored = data.sort_values("overtredingen", ascending=False)
 top5Overtredingen = data_stored.head(5).drop(columns=["divisie", "stadion"], errors="ignore")
@@ -20,8 +20,8 @@ CorrectDate = df.loc[mask].drop(columns=["divisie", "stadion", "overtredingen"],
 
 with open("data/overtreddingAantal.txt", "w", encoding="utf-8") as file:
     file.write(str(overtredingenAantal))
-with open("data/overtreddingSum.txt", "w", encoding="utf-8") as file:
-    file.write(str(SumOvertredingen))
+with open("data/overtreddingMean.txt", "w", encoding="utf-8") as file:
+    file.write(str(MeanOvertredingen))
 with open("data/Top5Overtredingen.txt", "w", encoding="utf-8") as file:
     file.write(top5Overtredingen.to_string(index=False))
 with open("data/FilteredData.txt", "w", encoding="utf-8") as file:
